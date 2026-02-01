@@ -1311,6 +1311,6 @@ Reminder: commits are graded. If you copy/paste a full step, it won’t count as
 - [Postman Checklist](guides/POSTMAN-CHECKLIST.md)
 - [GitHub Push/Pull Workflow](guides/github-push-pull.md)
 - [Full Step Solutions (after you finish)](steps/README.md)
-- [Teacher/TA: Original Lab Handout](teacher/ORIGINAL-LAB-HANDOUT.md)
 - [How To Use And Write Express Middleware](https://blog.webdevsimplified.com/2019-12/express-middleware-in-depth/)
 - [Every Important HTTP Status Code Explained](https://blog.webdevsimplified.com/2022-12/http-status-codes/)
+- [Original Lab Handout](temp/ORIGINAL-LAB-HANDOUT.md)
