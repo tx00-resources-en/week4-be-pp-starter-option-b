@@ -99,8 +99,6 @@ Whole-step solutions (use only after you finish a step) live in: [steps/README.m
 
 Important: this lab counts your **commit history**. If someone copy/pastes a whole-step solution, it won’t match the expected iteration commits.
 
-Teacher/TA reference (original handout wording) lives in: [teacher/ORIGINAL-LAB-HANDOUT.md](teacher/ORIGINAL-LAB-HANDOUT.md)
-
 ---
 
 ## Instructions
@@ -118,20 +116,19 @@ Teacher/TA reference (original handout wording) lives in: [teacher/ORIGINAL-LAB-
 Git Bash / macOS / Linux:
 
 ```bash
-git clone https://github.com/tx00-resources-en/week4-be-pp-starter-option-b
-cd week4-be-pp-starter-option-b 
+git clone https://github.com/tx00-resources-en/week4-be-pp-starter-option-b week4-be-pp-option-b
+cd week4-be-pp-option-b
 rm -rf .git
 ```
 
 Windows PowerShell:
 
 ```powershell
-git clone https://github.com/tx00-resources-en/week4-be-pp-starter-option-b
-Set-Location week4-be-pp-starter-option-b 
+git clone https://github.com/tx00-resources-en/week4-be-pp-starter-option-b week4-be-pp-option-b
+Set-Location week4-be-pp-option-b
 Remove-Item -Recurse -Force .git
 ```
 
-- Option B: use your own Week 3 tours API folder.
 
 3) Install + run:
 
@@ -142,7 +139,7 @@ npm run dev
 
 4) Do the Postman test below.
 
-5) Create your new GitHub repo (example name: `week4-be-pp-starter-option-b `) and add your partner as collaborator.
+5) Create your new GitHub repo (example name: `week4-be-pp-option-b`) and add your partner as collaborator.
 
 6) Initialize Git and push using: [guides/github-push-pull.md](guides/github-push-pull.md)
 
@@ -168,6 +165,8 @@ See: [steps/step-0-setup.md](steps/step-0-setup.md)
 Reminder: commits are graded. If you copy/paste a full step, it won’t count as iteration work.
 
 </details>
+
+-----
 
 ### Step 1: Refactoring to MVC Pattern
 
@@ -526,6 +525,8 @@ Reminder: commits are graded. If you copy/paste a full step, it won’t count as
 
 </details>
 
+-----
+
 ### Step 2: Update Status Codes
 
 **Goal:** Make your API more REST-like using better status codes.
@@ -584,6 +585,8 @@ See: [steps/step-2-status-codes.md](steps/step-2-status-codes.md)
 Reminder: commits are graded. If you copy/paste a full step, it won’t count as iteration work.
 
 </details>
+
+-----
 
 ### Step 3: Implement User Model, Controller, and Router
 
@@ -1011,6 +1014,8 @@ Reminder: commits are graded. If you copy/paste a full step, it won’t count as
 
 </details>
 
+-----
+
 ### Step 4: Modify Routes
 
 **Goal:** Put both routers behind an `/api` prefix.
@@ -1084,6 +1089,8 @@ Reminder: commits are graded. If you copy/paste a full step, it won’t count as
 
 </details>
 
+-----
+
 ### Step 5: Implement Third-Party Middleware
 
 **Goal:** Add request logging using Morgan.
@@ -1141,6 +1148,8 @@ See: [steps/step-5-morgan.md](steps/step-5-morgan.md)
 Reminder: commits are graded. If you copy/paste a full step, it won’t count as iteration work.
 
 </details>
+
+-----
 
 ### Step 6: Implement Custom Middleware for Authentication
 
@@ -1258,6 +1267,8 @@ See: [steps/step-6-auth-middleware.md](steps/step-6-auth-middleware.md)
 Reminder: commits are graded. If you copy/paste a full step, it won’t count as iteration work.
 
 </details>
+
+-----
 
 ### Step 7: Sync with GitHub
 
