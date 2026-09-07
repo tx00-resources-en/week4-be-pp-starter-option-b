@@ -25,3 +25,4 @@ Build and verify in this order:
 3) Then `POST`, then `GET by id`, then `PUT`, then `DELETE`
 
 Reminder: This lab stores plaintext passwords only because it’s a beginner exercise. In real apps you would hash passwords.
+

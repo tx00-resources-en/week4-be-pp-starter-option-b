@@ -87,3 +87,4 @@ Examples:
 - `refactor(app): mount routers under /api`
 - `feat(models): add userModel findById()`
 - `chore: install morgan`
+

@@ -21,3 +21,4 @@ After this:
 
 - Old routes like `GET /tours` should fail (expected).
 - New routes like `GET /api/tours` should work.
+

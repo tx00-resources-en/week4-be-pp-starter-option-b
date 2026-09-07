@@ -75,3 +75,4 @@ If something doesn’t work:
 - Should pass: `POST /api/tours?admin=true`
 
 Tip: query params are after `?`.
+

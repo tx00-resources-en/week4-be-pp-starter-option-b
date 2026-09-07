@@ -79,3 +79,4 @@ Commands you’ll usually use:
 - `git add .`
 - `git commit -m "Resolve merge conflict"`
 - `git push`
+

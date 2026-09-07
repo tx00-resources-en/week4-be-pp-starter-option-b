@@ -30,3 +30,4 @@ Each step also has a full end-of-step code snapshot (a complete file tree) here:
 - [Step 5 — Morgan Logging](step-5-morgan.md)
 - [Step 6 — Auth Middleware](step-6-auth-middleware.md)
 - [Step 7 — GitHub Sync](step-7-github-sync.md)
+
