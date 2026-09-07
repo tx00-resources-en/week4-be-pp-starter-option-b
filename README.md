@@ -4,7 +4,6 @@
 
 In this paired activity, you will collaboratively implement an API server using the MVC pattern, starting from the pre-existing tours API. The API will include two routers: one for users and one for tours.
 
-
 ---
 
 ## How you will work (paired, not strict pair programming)
